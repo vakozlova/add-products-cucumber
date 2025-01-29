@@ -45,7 +45,7 @@ java -jar qualit-sandbox.jar
 ## 🚀Установка и запуск
 1. Клонируйте проект:
 ```bash
-git clone https://github.com/https://github.com/valeria-kozlova/add-products-cucumber
+git clone https://github.com/https://github.com/vakozlova/add-products-cucumber
 ```
 2. Настройте chromedriver.
 3. Установите зависимости:
